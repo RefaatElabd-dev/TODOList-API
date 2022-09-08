@@ -1,0 +1,15 @@
+{
+  "name": "day2tasks",
+  "version": "1.1.0",
+  "description": "toDolist with server",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Refaat Elabd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
